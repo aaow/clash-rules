@@ -1,0 +1,11 @@
+payload: 
+  # 国外影视
+  - '*.bilibili.tv'
+  # docker
+  - '+.xiaoya.pro'
+  - '+.access.mypikpak.com'
+  - '+.api-drive.mypikpak.com'
+  - '+.mypikpak.com'
+  - '+.nn.ci'
+  # dns
+  - '+.dns.sb'
